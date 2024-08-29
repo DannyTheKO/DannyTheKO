@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Danny, a software engineer student at SaiGon University
 
-## #30NitesOfCode:
+# #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@DannyT/30-nites-of-code)  
   ![@DannyT #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DannyT)
 
