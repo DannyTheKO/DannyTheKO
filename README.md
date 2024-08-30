@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Danny, a software engineer student at SaiGon University
+- 🌱 My name is Danny 
+- 🔭 I'm a software engineer student at SaiGon University
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@DannyT/30-nites-of-code)  
