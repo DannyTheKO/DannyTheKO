@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi There 👋
 
 - 🌱 My name is Danny 
 - 🔭 I'm a software engineer student at SaiGon University
+- ⚡ I’m currently working on "Tetris" using Pygame library in Python
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@DannyT/30-nites-of-code)  
