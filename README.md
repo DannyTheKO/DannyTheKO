@@ -7,7 +7,7 @@
 ## #30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@DannyT/30-nites-of-code)
 
-### 🐾 This is my pet, his name is **Sandals**
+### - 🐾 This is my pet, his name is **Sandals**
 
 ![@DannyT #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DannyT)
 
